@@ -10,3 +10,5 @@ By STANFORD and link:-https://nlp.stanford.edu/IR-book/html/htmledition/tokeniza
 
 TOKENIZATION:-Given a character sequence and a defined document unit, tokenization is the task of chopping it up into pieces, called tokens , perhaps at the same time throwing away certain characters, such as punctuation.
 
+link for the Tensorflow for NLP is Given Below and the host was Laurence Moroney
+https://www.youtube.com/watch?v=Y_hzMnRXjhI&t=40s
