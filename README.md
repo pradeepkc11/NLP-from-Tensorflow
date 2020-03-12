@@ -13,3 +13,14 @@ TOKENIZATION:-Given a character sequence and a defined document unit, tokenizati
 
 link for the Tensorflow for NLP is Given Below and the host was Laurence Moroney
 https://www.youtube.com/watch?v=Y_hzMnRXjhI&t=40s
+
+Stemming 
+taken from from Krish naik the link :-https://www.youtube.com/watch?v=1OMmbtVmmbg&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=2
+# Stemming
+stemming is a process of reducing infected or derived words to their base or root form.
+example:-Brave, Bravely into its original form of "Brave"
+One major problem with Stemming is produced intermediate representation of the word may not have any meaning.
+different type of stemming is there like:
+potter stemming
+lovins Stemming
+Dawson Stemming
